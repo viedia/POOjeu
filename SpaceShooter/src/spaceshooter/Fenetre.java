@@ -7,8 +7,5 @@
 package spaceshooter;
 
 
-public class Bouton extends Composant {
-
-	Action onClick;
-
+public class Fenetre extends Groupe {
 }
